@@ -65,13 +65,19 @@ run in the Jupyter Notebook.
 CNN.ipynb
 📈 Output
 Training Accuracy Graph
+<img width="991" height="496" alt="Image" src="https://github.com/user-attachments/assets/fe25e7b2-444d-459b-a0f1-eb39dc0c77b5" />
+
 
 Validation Accuracy Graph
+
+<img width="790" height="511" alt="Image" src="https://github.com/user-attachments/assets/bff1944c-9e13-4db0-b60b-a8298f70277a" />
+
 Loss Graph
+
+<img width="780" height="616" alt="Image" src="https://github.com/user-attachments/assets/eaa2909a-2cf5-4a4e-a0d9-d06b822a352e" />
+
 Cat/Dog Prediction Results
-
 💾 Save Model
-
 model.save("cat_dog_classifier.keras")
 🎯 Objective
 
