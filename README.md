@@ -1,3 +1,13 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Shivaprasad Bhat M
+
+INTERN ID: CTIS7640
+
+DOMAIN: DATA SCIENCE DURATION: 12 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # 🐱🐶 Cat and Dog Image Classification using CNN and TensorFlow
 
 A Deep Learning based Image Classification project developed using Convolutional Neural Networks (CNN) with TensorFlow and Keras to classify images as Cats or Dogs.
@@ -51,10 +61,11 @@ test_set/
 pip install tensorflow matplotlib numpy
 
 ▶️ Run the Project
-python app.py  or run the Jupyter Notebook.
-
+run in the Jupyter Notebook.
+CNN.ipynb
 📈 Output
 Training Accuracy Graph
+
 Validation Accuracy Graph
 Loss Graph
 Cat/Dog Prediction Results
